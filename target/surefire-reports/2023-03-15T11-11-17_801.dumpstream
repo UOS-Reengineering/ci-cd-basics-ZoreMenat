@@ -1,0 +1,5 @@
+# Created at 2023-03-15T11:11:19.288
+Boot Manifest-JAR contains absolute paths in classpath 'U:\Software Reenginering\ci-cd-basics-ZoreMenat\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
